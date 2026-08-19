@@ -17,8 +17,7 @@ structured datasets used to train models for materials property prediction. I
 also work on checking those predictions against experimental measurement.
 
 Most repositories on this account are private, since the underlying research is
-unpublished. Where a project reaches publication I release the analysis code
-alongside it with a citable archive.
+unpublished.
 
 ### Writing
 
