@@ -11,7 +11,7 @@ Day to day that means processing and interpreting XRD, SEM and EDS, XRF, Raman,
 impedance, dielectric, ferroelectric and piezoelectric measurements, and building reproducible Python workflows
 that take raw instrument output through to publication quality figures.
 
-On the Simulingua project I handle the data side. I extract experimental results
+On the Simulingua project, I extract experimental results
 from the published literature, much of it locked in PDFs, and turn them into
 structured datasets used to train models for materials property prediction. I
 also work on checking those predictions against experimental measurement.
